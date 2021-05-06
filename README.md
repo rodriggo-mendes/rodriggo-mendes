@@ -13,7 +13,7 @@
 - ⬜ Java SE (só um pouco)
 
 Idiomas que eu falo:
-- 🟢 Português
-- 🔵 Inglês
-- 🟡 Alemão (cursando :D)
-- 🟠 Espanhol (intermediário ;D)
+- 🟥 Português
+- 🟧 Inglês
+- 🟨 Alemão (cursando :D)
+- 🟩 Espanhol (intermediário ;D)
