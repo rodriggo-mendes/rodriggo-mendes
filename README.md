@@ -11,6 +11,7 @@
 - ⬛ .NET Framework
 - 🟫 C#
 - ⬜ Java SE (só um pouco)
+- 🟥 Python + Django
 
 🗨 Idiomas que eu falo:
 
