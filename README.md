@@ -15,7 +15,7 @@
 
 🗨 Idiomas que eu falo:
 
-- 🟥 Português
+- 🟥 Português Brasileiro
 - 🟧 Inglês
 - 🟨 Alemão (cursando :D)
 - 🟩 Espanhol (intermediário ;D)
