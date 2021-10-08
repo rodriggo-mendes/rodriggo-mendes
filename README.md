@@ -1,16 +1,16 @@
 <h1>🖖 Saudações</h1>
 
 <h3>Sobre mim</h3>
-🧑🏽 18 anos
-<p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
-<p>🏆 Formado em Ensino Técnico de Informática</p>
-<p>🏠 São Vicente, SP - Brasil</p>
+  🧑🏽 18 anos
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas
+  🏆 Formado em Ensino Técnico de Informática
+  🏠 São Vicente, SP - Brasil
 
 <h3>Idiomas que eu falo</h3>
-<p>🟢 Português Brasileiro (Nativo)</p>
-<p>🔵 Inglês (Fluente)</p>
-<p>🟡 Alemão (Cursando)</p>
-<p>🔴 Espanhol (Intermediário)</p>
+  🟢 Português Brasileiro (Nativo)
+  🔵 Inglês (Fluente)
+  🟡 Alemão (Cursando)
+  🔴 Espanhol (Intermediário)
 
 <h3>Contato</h3>
 <p>
