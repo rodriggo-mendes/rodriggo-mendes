@@ -1,7 +1,7 @@
 <h1>🖖 Saudações</h1>
 
 <h3>Sobre mim</h3>
-<p>🧑🏽 18 anos</p>
+🧑🏽 18 anos
 <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
 <p>🏆 Formado em Ensino Técnico de Informática</p>
 <p>🏠 São Vicente, SP - Brasil</p>
