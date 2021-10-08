@@ -1,11 +1,25 @@
 <h1>🖖 Saudações</h1>
 
 <h3>Sobre mim</h3>
-<p>🎈 18 anos</p>
+<p>🧑🏽 18 anos</p>
 <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
+<p>🏆 Formado em Ensino Técnico de Informática</p>
 <p>🏠 São Vicente, SP - Brasil</p>
 
-<h3 align="left">Linguagens de programação que eu sei/estou aprendendo: </h3>
+<h3>Idiomas que eu falo</h3>
+<p>🟢 Português Brasileiro (Nativo)</p>
+<p>🔵 Inglês (Fluente)</p>
+<p>🟡 Alemão (Cursando)</p>
+<p>🔴 Espanhol (Intermediário)</p>
+
+<h3>Contato</h3>
+<p>
+  <a href="https://linkedin.com/in/rodriggo-mendes" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
+  </a>
+</p>
+
+<h3 align="left">Linguagens de programação que eu sei/estou aprendendo</h3>
 <div> 
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -44,16 +58,3 @@
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
 </div>
-
-<h3>Idiomas que eu falo:</h3>
-<p>🟢 Português Brasileiro (Nativo)</p>
-<p>🔵 Inglês (Fluente)</p>
-<p>🟡 Alemão (Cursando)</p>
-<p>🔴 Espanhol (Intermediário)</p>
-
-<h3>Redes:</h3>
-<p>
-  <a href="https://linkedin.com/in/rodriggo-mendes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
-  </a>
-</p>
