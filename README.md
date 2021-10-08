@@ -1,5 +1,9 @@
-<h1>🖖 Saudações, me chamo Rodriggo Mendes</h1>
-<h3>Sim... são 2 "G"s</h3>
+<h1>🖖 Saudações</h1>
+
+<h3>Sobre mim</h3>
+<p>🎈 18 anos</p>
+<p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
+<p>🏠 São Vicente, SP - Brasil</p>
 
 <h3 align="left">Linguagens de programação que eu sei/estou aprendendo: </h3>
 <div> 
@@ -41,9 +45,15 @@
   </a> 
 </div>
 
+<h3>Idiomas que eu falo:</h3>
+<p>🟢 Português Brasileiro (Nativo)</p>
+<p>🔵 Inglês (Fluente)</p>
+<p>🟡 Alemão (Cursando)</p>
+<p>🔴 Espanhol (Intermediário)</p>
+
 <h3>Redes:</h3>
 <p>
   <a href="https://linkedin.com/in/rodriggo-mendes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodriggo-mendes" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
   </a>
 </p>
