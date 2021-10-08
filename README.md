@@ -1,4 +1,4 @@
-<h1>🖖 Saudações</h1>
+<h1 align="center">🖖 Saudações</h1>
 
 <h3>Sobre mim</h3>
   <p>🧑🏽 18 anos</p>
@@ -77,4 +77,27 @@
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> 
   </a> 
   
+</div>
+
+<h3>IDEs e outros programas que eu utilizo</h3>
+<div>
+  <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual studio"/> 
+  </a>
+  
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"/> 
+  </a>
+  
+  <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank"> 
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="pycharm"/> 
+  </a>
+  
+  <a href="https://www.adobe.com/br/products/dreamweaver.html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400" alt="dreamweaver"/> 
+  </a>
+  
+  <a href="https://www.adobe.com/br/products/photoshop/landpa.html/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" alt="photoshop"/> 
+  </a>
 </div>
