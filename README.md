@@ -2,6 +2,7 @@
 
 <h3>Sobre mim</h3>
   <p>🧑🏽 18 anos</p>
+  <p>💼 Estagiário de Front-end na IntuitiveCare®</p>
   <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
   <p>🏆 Formado em Ensino Técnico de Informática</p>
   <p>🏠 São Vicente, SP - Brasil</p>
