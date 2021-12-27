@@ -8,10 +8,10 @@
   <p>🏠 São Vicente, SP - Brazil</p>
 
 <h3>Languages I speak</h3>
-  <p>🟢 Português Brasileiro (Mother language)</p>
+  <p>🟢 Português Brasileiro [Brazilian Portuguese] (Mother language)</p>
   <p>🔵 English (Fluent)</p>
-  <p>🟡 Deutsch (Currently learning / Intermediate)</p>
-  <p>🔴 Espanhol (Intermediate)</p>
+  <p>🟡 Deutsch [German] (Currently learning / Intermediate)</p>
+  <p>🔴 Español [Spanish] (Intermediate)</p>
 
 <h3>Contato</h3>
 <p>
