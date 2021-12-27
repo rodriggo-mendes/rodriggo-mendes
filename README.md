@@ -13,7 +13,7 @@
   <p>🟡 Deutsch [German] (Currently learning / Intermediate)</p>
   <p>🔴 Español [Spanish] (Intermediate)</p>
 
-<h3>Contato</h3>
+<h3>Contact</h3>
 <p>
   <a href="mailto:rodriggo.loiola@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
