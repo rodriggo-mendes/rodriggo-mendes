@@ -1,17 +1,17 @@
-<h1 align="center">🖖 Saudações</h1>
+<h1 align="center">🖖 Greetings</h1>
 
-<h3>Sobre mim</h3>
-  <p>🧑🏽 18 anos</p>
-  <p>💼 Estagiário de Front-end na IntuitiveCare®</p>
-  <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
-  <p>🏆 Formado em Ensino Técnico de Informática</p>
-  <p>🏠 São Vicente, SP - Brasil</p>
+<h3>About me</h3>
+  <p>🧑🏽 18 YO</p>
+  <p>💼 Frontend Intern at IntuitiveCare®</p>
+  <p>🎓 System Analysis and Development Student</p>
+  <p>🏆 Technical Course in IT</p>
+  <p>🏠 São Vicente, SP - Brazil</p>
 
-<h3>Idiomas que eu falo</h3>
-  <p>🟢 Português Brasileiro (Nativo)</p>
-  <p>🔵 Inglês (Fluente)</p>
-  <p>🟡 Alemão (Cursando)</p>
-  <p>🔴 Espanhol (Intermediário)</p>
+<h3>Languages I speak</h3>
+  <p>🟢 Português Brasileiro (Mother language)</p>
+  <p>🔵 English (Fluent)</p>
+  <p>🟡 Deutsch (Currently learning / Intermediate)</p>
+  <p>🔴 Espanhol (Intermediate)</p>
 
 <h3>Contato</h3>
 <p>
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h3>Linguagens de programação e frameworks que eu conheço</h3>
+<h3>Programming languages and frameworks I know</h3>
 <div> 
   
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -48,6 +48,10 @@
   
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> 
+  </a> 
+  
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="react"/> 
   </a> 
   
   <a href="https://www.python.org/" target="_blank"> 
@@ -80,7 +84,7 @@
   
 </div>
 
-<h3>IDEs e outros programas que eu utilizo</h3>
+<h3>IDEs and other programs I use</h3>
 <div>
   <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank"> 
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual studio"/> 
