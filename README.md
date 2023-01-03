@@ -1,8 +1,8 @@
 <h1 align="center">🖖 Greetings</h1>
 
 <h3>About me</h3>
-  <p>🧑🏽 19 YO</p>
-  <p>💼 Frontend Intern at IntuitiveCare®</p>
+  <p>🧑🏽 20 YO</p>
+  <p>💼 Front-end Developer @ IntuitiveCare®</p>
   <p>🎓 System Analysis and Development Student</p>
   <p>🏆 Technical Course in IT</p>
   <p>🏠 São Vicente, SP - Brazil</p>
