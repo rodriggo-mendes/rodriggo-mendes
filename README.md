@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h3>Programming languages and frameworks I know</h3>
+<h3>Programming languages and frameworks</h3>
 <div> 
   
   <a href="https://www.w3.org/html/" target="_blank"> 
