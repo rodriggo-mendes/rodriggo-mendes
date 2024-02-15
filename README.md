@@ -1,11 +1,11 @@
 <h1 align="center">🖖 Greetings</h1>
 
 <h3>About me</h3>
-  <p>🧑🏽 20 YO</p>
+  <p>🧑🏽 21 YO</p>
   <p>💼 Front-end Developer @ IntuitiveCare®</p>
-  <p>🎓 System Analysis and Development Student</p>
+  <p>🎓 System Analyst and Developer</p>
   <p>🏆 Technical Course in IT</p>
-  <p>🏠 São Vicente, SP - Brazil</p>
+  <p>🏠 Santos, SP - Brazil</p>
 
 <h3>Languages I speak</h3>
   <p>🟢 Português Brasileiro [Brazilian Portuguese] (Mother language)</p>
