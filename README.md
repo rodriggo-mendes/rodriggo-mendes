@@ -3,8 +3,6 @@
 <h3>About me</h3>
   <p>🧑🏽 21 YO</p>
   <p>💼 Front-end Developer @ IntuitiveCare®</p>
-  <p>🎓 System Analyst and Developer</p>
-  <p>🏆 Technical Course in IT</p>
   <p>🏠 Santos, SP - Brazil</p>
 
 <h3>Languages I speak</h3>
